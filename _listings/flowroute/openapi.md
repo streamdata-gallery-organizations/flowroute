@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Flowroute
 x-complete: 1
@@ -333,4 +332,3 @@ paths:
       - List
       - Inbound
       - Routes
----
